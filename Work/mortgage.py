@@ -3,7 +3,7 @@
 # Exercise 1.17
 # mortgage.py
 
-pprincipal = 500000.0
+principal = 500000.0
 rate = 0.05
 payment = 2684.11
 total_paid = 0.0
